@@ -8,7 +8,7 @@ Cycle through multiple LoRA models across denoising steps — each slot has its 
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/YOUR_USERNAME/comfyui_Silly_loracyclic
+git clone https://github.com/silly2342/comfyui_Silly_loracyclic
 ```
 
 Restart ComfyUI. Nodes appear under **sampling/cyclic**.
